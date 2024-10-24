@@ -30,10 +30,10 @@ As a class we are developing a new immigration processing system following Agile
 
 ## Installation
 **Clone the repository:**
-    ```bash
-    git clone https://github.com/Ama4538/Original_Document_Return_Request.git
-    cd Original_Document_Return_Request
-    ```
+```bash
+git clone https://github.com/Ama4538/Original_Document_Return_Request.git
+cd Original_Document_Return_Request
+```
 
 ## Tech Stack
 - Java
