@@ -1,4 +1,4 @@
-# original_document_return_request
+# Original_Document_Return_Request
 A document return request component for a new immigration processing system. This is a group project for CS 321: Software Engineering at George Mason University
 
 ## Table of Contents
@@ -12,16 +12,20 @@ A document return request component for a new immigration processing system. Thi
 
 ## Concept
 ![System Concept](./git_images/SystemConcept.png)
+
 As a class we are developing a new immigration processing system following Agile methodology and each team is assigned a designated functional area within the system.
 
 ## Diagrams
 ![UML UseCase Diagram](./git_images/UML_Use_Case.png)
+
 This is our UML use case diagram representing the document return request component.
 
 ![UML Subsystem Component Diagram](./git_images/UML_Subsystem_Component_Diagram.png)
+
 This is our UML Subsystem Component Diagram.
 
 ![UML_Activity_Diagram](./git_images/UML_Activity_Diagram.png)
+
 This is our UML activity diagram
 
 ## Installation
