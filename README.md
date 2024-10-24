@@ -16,17 +16,16 @@ A document return request component for a new immigration processing system. Thi
 As a class we are developing a new immigration processing system following Agile methodology and each team is assigned a designated functional area within the system.
 
 ## Diagrams
+1. **UML Use Case Diagram**
 ![UML UseCase Diagram](./git_images/UML_Use_Case.png)
 
-This is our UML use case diagram representing the document return request component.
-
+2. **UML Subsystem Component Diagram**
 ![UML Subsystem Component Diagram](./git_images/UML_Subsystem_Component_Diagram.png)
 
-This is our UML Subsystem Component Diagram.
-
+3. **UML activity diagram**
 ![UML_Activity_Diagram](./git_images/UML_Activity_Diagram.png)
 
-This is our UML activity diagram
+4. **UML class diagram**
 
 ## Installation
 **Clone the repository:**
