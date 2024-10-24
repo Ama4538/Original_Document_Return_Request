@@ -7,7 +7,8 @@ A document return request component for a new immigration processing system. Thi
 - [Installation](#installation)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
-- [Screenshots](#Screenshots)
+- [Screenshots](#screenshots)
+- [Collaborators](#collaborators)
 - [License](#license)
 
 ## Concept
@@ -31,7 +32,7 @@ As a class we are developing a new immigration processing system following Agile
 **Clone the repository:**
     ```bash
     git clone https://github.com/Ama4538/Original_Document_Return_Request.git
-    cd original_document_return_request
+    cd Original_Document_Return_Request
     ```
 
 ## Tech Stack
@@ -50,6 +51,11 @@ As a class we are developing a new immigration processing system following Agile
 ├── .gitattributes      # All gits attributes
 └── pom.xml             # Configuration file for Maven
 ```
+
+## Collaborators
+- [Mohammad Qasim](https://github.com/MoeQasim111)
+- [Hussein Al Aayedi](https://github.com/husseinAl2)
+
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
